@@ -1,0 +1,5 @@
+- Start working on multiplayer [https://stackoverflow.com/questions/27736175/how-to-send-receive-objects-using-sockets-in-java]
+- Blinky ball
+- Speed the ball up the longer the players are playing it
+- Timer when a goal is made
+- Timer for invisible ball
